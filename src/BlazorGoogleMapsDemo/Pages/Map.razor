@@ -1,0 +1,9 @@
+@using Logixware.Web.Blazor.Components
+
+@page "/map"
+
+<GoogleMaps Location="@(new GoogleMapsLocation { Street = "Schnoor 31", City = "28195 Bremen", Country = "Deutschland" })"
+			Options="@(new GoogleMapsOptions { MarkerImageUrl = "/dist/assets/images/googlemapspin.png", MapTypeControl = false })"
+			Key="YOUR KEY HERE"
+			Class="th-google_map"
+			Height="750"></GoogleMaps>

@@ -1,0 +1,31 @@
+{
+	"compilerOptions":
+	{
+		"moduleResolution": "node",
+		"module": "es2015",
+		"target": "es5",
+		"alwaysStrict": true,
+		"noImplicitAny": false,
+		"sourceMap": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"skipDefaultLibCheck": true,
+		"skipLibCheck": true,
+		"allowUnreachableCode": false,
+		"lib": [ "es2016", "dom" ],
+		"types": [ "node" ],
+		"baseUrl": ".",
+		"paths":
+		{
+		}
+	},
+
+	"include":
+	[
+		"Client"
+	],
+
+	"exclude":
+	[
+	]
+}

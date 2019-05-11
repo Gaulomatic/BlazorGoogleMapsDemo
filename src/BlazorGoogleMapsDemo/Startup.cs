@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using BlazorGoogleMapsDemo.Data;
+using Logixware.Web.Blazor.Components.Interop;
 
 namespace BlazorGoogleMapsDemo
 {
@@ -21,6 +22,7 @@ namespace BlazorGoogleMapsDemo
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
+            services.AddScoped<GoogleMapsInterop>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

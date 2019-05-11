@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b289608b-0f2e-4b66-80f2-d67fa6b6a1bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Assets/Styles/Styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/Boot.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/Map.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlazorGoogleMapsDemo/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlazorGoogleMapsDemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlazorGoogleMapsDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlazorGoogleMapsDemo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlazorGoogleMapsDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlazorGoogleMapsDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Host.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Host.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/NavMenu.razor" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/NavMenu.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Startup.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,38 +17,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Host.cshtml">
+        <entry file="file://$PROJECT_DIR$/../BlazorGoogleMapsDemo Kopie/src/BlazorGoogleMapsDemo/Shared/NavMenu.razor">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="437">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Imports.razor">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/_Imports.razor">
+        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/Map.razor">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-              <folding>
-                <marker date="1557540952102" expanded="true" signature="7:223" ph="..." />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/Map.razor">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../BlazorGoogleMapsDemo Kopie/src/BlazorGoogleMapsDemo/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="456">
+              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="25" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="54" selection-start-line="24" selection-start-column="41" selection-end-line="54" />
+              <folding>
+                <marker date="1557542563429" expanded="true" signature="6:405" ph="..." />
+                <marker date="1557542563429" expanded="true" signature="437:1803" ph="{...}" />
+                <marker date="1557542563429" expanded="true" signature="464:1801" ph="{...}" />
+                <marker date="1557542563429" expanded="true" signature="479:694" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1557542563429" expanded="true" signature="761:977" ph="{...}" />
+                <marker date="1557542563429" expanded="true" signature="1165:1795" ph="{...}" />
+                <marker date="1557542563429" expanded="true" signature="1212:1289" ph="{...}" />
+                <marker date="1557542563429" expanded="true" signature="1306:1509" ph="{...}" />
+                <marker date="1557542563429" expanded="true" signature="1671:1783" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Interop/GoogleMapsInterop.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <marker date="1557542563428" expanded="true" signature="6:110" ph="..." />
+                <marker date="1557542563428" expanded="true" signature="161:917" ph="{...}" />
+                <marker date="1557542563428" expanded="true" signature="195:915" ph="{...}" />
+                <marker date="1557542563428" expanded="true" signature="290:384" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,21 +95,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/NavMenu.razor">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="532">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
               <folding>
-                <marker date="1557541373755" expanded="true" signature="1185:1382" ph="@{...}" />
-                <marker date="1557541373755" expanded="true" signature="1324:1380" ph="{...}" />
+                <marker date="1557542563429" expanded="true" signature="1185:1382" ph="@{...}" />
+                <marker date="1557542563429" expanded="true" signature="1324:1380" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/webpack.config.shared.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-147">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -77,41 +111,36 @@
             <state relative-caret-position="551">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <marker date="1557539372260" expanded="true" signature="7:124" ph="..." />
-                <marker date="1557539372260" expanded="true" signature="200:871" ph="@{...}" />
-                <marker date="1557539372260" expanded="true" signature="619:869" ph="{...}" />
+                <marker date="1557542563428" expanded="true" signature="7:124" ph="..." />
+                <marker date="1557542563428" expanded="true" signature="200:871" ph="@{...}" />
+                <marker date="1557542563428" expanded="true" signature="619:869" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/Boot.ts">
+        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/GoogleMapsLocation.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/GoogleMapsInterop.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+            <state relative-caret-position="76">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <marker date="1557542563428" expanded="true" signature="56:288" ph="{...}" />
+                <marker date="1557542563428" expanded="true" signature="91:286" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/InitializeInterops.ts">
+        <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/GoogleMapsOptions.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="76">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1557542563429" expanded="true" signature="56:644" ph="{...}" />
+                <marker date="1557542563429" expanded="true" signature="90:642" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,17 +152,22 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Host.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../BlazorGoogleMapsDemo Kopie/src/BlazorGoogleMapsDemo/Shared/NavMenu.razor" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/GoogleMapsLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/GoogleMapsOptions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/GoogleMaps.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/Map.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../BlazorGoogleMapsDemo Kopie/src/BlazorGoogleMapsDemo/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/_Imports.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Interop/GoogleMapsInterop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/NavMenu.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/Map.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Imports.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/_Imports.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../BlazorGoogleMapsDemo Kopie/src/BlazorGoogleMapsDemo/Pages/_Host.cshtml" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Startup.cs" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/GoogleMaps.razor" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/GoogleMaps.razor" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/package.json" />
@@ -141,12 +175,14 @@
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/Boot.ts" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/InitializeInterops.ts" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Host.cshtml" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/_Imports.razor" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/webpack.config.shared.js" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/GoogleMapsInterop.ts" />
+        <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Host.cshtml" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/NavMenu.razor" />
+        <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Startup.cs" />
         <option value="$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/Map.razor" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -180,7 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -198,20 +233,7 @@
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
               <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Images" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Client" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interop" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
@@ -225,47 +247,19 @@
               <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="dist" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="dist" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="assets" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BlazorGoogleMapsDemo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="dist" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="assets" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="images" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -329,11 +323,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557539096975</updated>
       <workItem from="1557539100628" duration="2324000" />
+      <workItem from="1557541883508" duration="300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2324000" />
+    <option name="totallyTimeSpent" value="2730000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -348,22 +343,10 @@
     <frame x="0" y="23" width="3008" height="1589" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="DB Browser" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.223613" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22530447" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -371,19 +354,31 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Git Scope" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="REST Client" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="14" />
+      <window_info anchor="bottom" id="NuGet" order="15" />
+      <window_info anchor="bottom" id="Unit Tests" order="16" />
+      <window_info anchor="bottom" id="Database Changes" order="17" />
+      <window_info anchor="bottom" id="Version Control" order="18" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Git Scope" order="3" side_tool="true" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Errors In Solution" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -396,24 +391,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding>
-            <marker date="1557539257665" expanded="true" signature="6:406" ph="..." />
-            <marker date="1557539257665" expanded="true" signature="438:1804" ph="{...}" />
-            <marker date="1557539257665" expanded="true" signature="465:1802" ph="{...}" />
-            <marker date="1557539257665" expanded="true" signature="480:695" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1557539257665" expanded="true" signature="762:978" ph="{...}" />
-            <marker date="1557539257665" expanded="true" signature="1166:1796" ph="{...}" />
-            <marker date="1557539257665" expanded="true" signature="1213:1290" ph="{...}" />
-            <marker date="1557539257665" expanded="true" signature="1307:1510" ph="{...}" />
-            <marker date="1557539257665" expanded="true" signature="1672:1784" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/appsettings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -421,69 +398,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Assets/Styles/Styles.scss">
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Assets/Styles/Styles.scss" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/webpack.config.vendor.js" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/vendor/vendor.css" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/vendor/vendor.js" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/application/styles.css" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/application/styles.js" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/application/scripts.js" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/application/boot.js" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/Boot.ts" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/InitializeInterops.ts" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/GoogleMapsInterop.ts" />
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Imports.razor">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/webpack.config.vendor.js">
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/_Imports.razor">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/vendor/vendor.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
-          <caret line="2568" column="36" selection-start-line="2568" selection-start-column="36" selection-end-line="2568" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/vendor/vendor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-376" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/application/styles.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/application/styles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="95">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1557541676476" expanded="true" signature="7:223" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/application/scripts.js">
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/webpack.config.shared.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4601">
+        <state relative-caret-position="1026">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/GoogleMaps.razor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1557542563428" expanded="true" signature="7:124" ph="..." />
+            <marker date="1557542563428" expanded="true" signature="200:871" ph="@{...}" />
+            <marker date="1557542563428" expanded="true" signature="619:869" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/wwwroot/dist/webpack/application/boot.js">
+    <entry file="file://$PROJECT_DIR$/../BlazorGoogleMapsDemo Kopie/src/BlazorGoogleMapsDemo/Pages/_Host.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3452">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="494">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="28" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -494,78 +457,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/_Imports.razor">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/_Imports.razor">
+    <entry file="file://$PROJECT_DIR$/../BlazorGoogleMapsDemo Kopie/src/BlazorGoogleMapsDemo/Shared/NavMenu.razor">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding>
-            <marker date="1557540952102" expanded="true" signature="7:223" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/Boot.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/InitializeInterops.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/GoogleMaps.razor">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1557539372260" expanded="true" signature="7:124" ph="..." />
-            <marker date="1557539372260" expanded="true" signature="200:871" ph="@{...}" />
-            <marker date="1557539372260" expanded="true" signature="619:869" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/webpack.config.shared.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Client/GoogleMapsInterop.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="437">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Shared/NavMenu.razor">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="532">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
-            <marker date="1557541373755" expanded="true" signature="1185:1382" ph="@{...}" />
-            <marker date="1557541373755" expanded="true" signature="1324:1380" ph="{...}" />
+            <marker date="1557542563429" expanded="true" signature="1185:1382" ph="@{...}" />
+            <marker date="1557542563429" expanded="true" signature="1324:1380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Interop/GoogleMapsInterop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1557542563428" expanded="true" signature="6:110" ph="..." />
+            <marker date="1557542563428" expanded="true" signature="161:917" ph="{...}" />
+            <marker date="1557542563428" expanded="true" signature="195:915" ph="{...}" />
+            <marker date="1557542563428" expanded="true" signature="290:384" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Pages/Map.razor">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BlazorGoogleMapsDemo Kopie/src/BlazorGoogleMapsDemo/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="25" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlazorGoogleMapsDemo/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" selection-start-line="24" selection-start-column="41" selection-end-line="54" />
+          <folding>
+            <marker date="1557542563429" expanded="true" signature="6:405" ph="..." />
+            <marker date="1557542563429" expanded="true" signature="437:1803" ph="{...}" />
+            <marker date="1557542563429" expanded="true" signature="464:1801" ph="{...}" />
+            <marker date="1557542563429" expanded="true" signature="479:694" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1557542563429" expanded="true" signature="761:977" ph="{...}" />
+            <marker date="1557542563429" expanded="true" signature="1165:1795" ph="{...}" />
+            <marker date="1557542563429" expanded="true" signature="1212:1289" ph="{...}" />
+            <marker date="1557542563429" expanded="true" signature="1306:1509" ph="{...}" />
+            <marker date="1557542563429" expanded="true" signature="1671:1783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

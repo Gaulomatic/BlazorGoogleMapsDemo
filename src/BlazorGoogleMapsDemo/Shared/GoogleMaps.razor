@@ -1,0 +1,29 @@
+@using Microsoft.AspNetCore.Components
+@using Logixware.Web.Blazor.Components
+@using Logixware.Web.Blazor.Components.Interop
+
+@inject GoogleMapsInterop GoogleMapsInterop
+@inject IUriHelper UriHelper
+
+@functions
+{
+	private ElementRef _Element;
+
+	[Parameter] private String Key { get; set; }
+
+	[Parameter] private String Class { get; set; }
+	[Parameter] private String Style { get; set; }
+	[Parameter] private Int32 Height { get; set; } = 800;
+
+	[Parameter] private GoogleMapsLocation Location { get; set; }
+	[Parameter] private GoogleMapsOptions Options { get; set; }
+
+	protected override async Task OnAfterRenderAsync()
+	{
+		await this.GoogleMapsInterop.SetLocationAsync(this.Location);
+		await this.GoogleMapsInterop.SetOptionsAsync(this.Options);
+		await this.GoogleMapsInterop.InitializeAsync(this._Element, this.Key, new Uri(this.UriHelper.GetBaseUri()).Scheme);
+	}
+}
+
+<div ref="@this._Element" class="@this.Class" style="height: @(this.Height)px; @this.Style"></div>

@@ -99,8 +99,8 @@
                   <e p="_Imports.razor.g.cs" t="Include" />
                   <e p="Counter.razor.g.cs" t="Include" />
                   <e p="FetchData.razor.g.cs" t="Include" />
-                  <e p="GoogleMaps.razor.g.cs" t="Include" />
                   <e p="Index.razor.g.cs" t="Include" />
+                  <e p="Map.razor.g.cs" t="Include" />
                 </e>
                 <e p="Shared" t="Include">
                   <e p="GoogleMaps.razor.g.cs" t="Include" />

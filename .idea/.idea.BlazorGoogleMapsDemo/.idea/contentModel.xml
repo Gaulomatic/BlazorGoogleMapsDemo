@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.gitignore_global" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_BlazorGoogleMapsDemo.-128440183.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p=".git/info/exclude" t="IncludeRecursive" />
+      <e p="BlazorGoogleMapsDemo.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src/BlazorGoogleMapsDemo" t="IncludeRecursive">
+        <e p="_Imports.razor" t="Include" />
+        <e p="App.razor" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="Assets" t="Include">
+          <e p="Images" t="Include">
+            <e p="GoogleMapsPin.png" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="jquery" t="Include">
+              <e p="jquery.js" t="Include" />
+            </e>
+            <e p="jquery.gmap" t="Include">
+              <e p="jquery.gmap.js" t="Include" />
+              <e p="jquery.gmap.min.js" t="Include" />
+              <e p="map-styles.js" t="Include" />
+            </e>
+          </e>
+          <e p="Styles" t="Include">
+            <e p="Styles.scss" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BlazorGoogleMapsDemo.csproj" t="IncludeRecursive" />
+        <e p="Client" t="Include">
+          <e p="Boot.ts" t="Include" />
+          <e p="GoogleMapsInterop.ts" t="Include" />
+          <e p="InitializeInterops.ts" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="WeatherForecast.cs" t="Include" />
+          <e p="WeatherForecastService.cs" t="Include" />
+        </e>
+        <e p="Interop" t="Include">
+          <e p="GoogleMapsInterop.cs" t="Include" />
+        </e>
+        <e p="node_modules/@types" t="IncludeRecursive">
+          <e p="events" t="IncludeRecursive" />
+          <e p="lodash" t="IncludeRecursive" />
+          <e p="minimatch" t="IncludeRecursive" />
+          <e p="node" t="IncludeRecursive" />
+        </e>
+        <e p="node_modules/animate.css" t="IncludeRecursive" />
+        <e p="node_modules/awesome-typescript-loader" t="IncludeRecursive" />
+        <e p="node_modules/clean-webpack-plugin" t="IncludeRecursive" />
+        <e p="node_modules/convert-tsconfig-paths-to-webpack-aliases" t="IncludeRecursive" />
+        <e p="node_modules/copy-webpack-plugin" t="IncludeRecursive" />
+        <e p="node_modules/css" t="IncludeRecursive" />
+        <e p="node_modules/css-loader" t="IncludeRecursive" />
+        <e p="node_modules/expose-loader" t="IncludeRecursive" />
+        <e p="node_modules/file-loader" t="IncludeRecursive" />
+        <e p="node_modules/html-loader" t="IncludeRecursive" />
+        <e p="node_modules/json-loader" t="IncludeRecursive" />
+        <e p="node_modules/less" t="IncludeRecursive" />
+        <e p="node_modules/less-loader" t="IncludeRecursive" />
+        <e p="node_modules/linqts" t="IncludeRecursive" />
+        <e p="node_modules/mini-css-extract-plugin" t="IncludeRecursive" />
+        <e p="node_modules/mkdir-recursive" t="IncludeRecursive" />
+        <e p="node_modules/node-sass" t="IncludeRecursive" />
+        <e p="node_modules/package-json-merge" t="IncludeRecursive" />
+        <e p="node_modules/raw-loader" t="IncludeRecursive" />
+        <e p="node_modules/resolve-url-loader" t="IncludeRecursive" />
+        <e p="node_modules/sass-loader" t="IncludeRecursive" />
+        <e p="node_modules/source-map-loader" t="IncludeRecursive" />
+        <e p="node_modules/style-loader" t="IncludeRecursive" />
+        <e p="node_modules/terser-webpack-plugin" t="IncludeRecursive" />
+        <e p="node_modules/to-string-loader" t="IncludeRecursive" />
+        <e p="node_modules/ts-node" t="IncludeRecursive" />
+        <e p="node_modules/url-loader" t="IncludeRecursive" />
+        <e p="node_modules/webpack" t="IncludeRecursive" />
+        <e p="node_modules/webpack-bundle-analyzer" t="IncludeRecursive" />
+        <e p="node_modules/webpack-cli" t="IncludeRecursive" />
+        <e p="node_modules/webpack-concat-plugin" t="IncludeRecursive" />
+        <e p="node_modules/webpack-dev-server" t="IncludeRecursive" />
+        <e p="node_modules/webpack-hot-middleware" t="IncludeRecursive" />
+        <e p="node_modules/webpack-merge" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="BlazorGoogleMapsDemo.AssemblyInfo.cs" t="Include" />
+              <e p="Razor" t="Include">
+                <e p="_Imports.razor.g.cs" t="Include" />
+                <e p="App.razor.g.cs" t="Include" />
+                <e p="Pages" t="Include">
+                  <e p="_Imports.razor.g.cs" t="Include" />
+                  <e p="Counter.razor.g.cs" t="Include" />
+                  <e p="FetchData.razor.g.cs" t="Include" />
+                  <e p="GoogleMaps.razor.g.cs" t="Include" />
+                  <e p="Index.razor.g.cs" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="GoogleMaps.razor.g.cs" t="Include" />
+                  <e p="MainLayout.razor.g.cs" t="Include" />
+                  <e p="NavMenu.razor.g.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
+        <e p="Pages" t="Include">
+          <e p="_Host.cshtml" t="Include" />
+          <e p="_Imports.razor" t="Include" />
+          <e p="Counter.razor" t="Include" />
+          <e p="FetchData.razor" t="Include" />
+          <e p="Index.razor" t="Include" />
+          <e p="Map.razor" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="GoogleMaps.razor" t="Include" />
+          <e p="GoogleMapsLocation.cs" t="Include" />
+          <e p="GoogleMapsOptions.cs" t="Include" />
+          <e p="MainLayout.razor" t="Include" />
+          <e p="NavMenu.razor" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="tsconfig.json" t="Include" />
+        <e p="webpack.config.js" t="Include" />
+        <e p="webpack.config.shared.js" t="Include" />
+        <e p="webpack.config.vendor.js" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="bootstrap.min.css" t="Include" />
+              <e p="bootstrap.min.css.map" t="Include" />
+            </e>
+            <e p="open-iconic" t="Include">
+              <e p="font" t="Include">
+                <e p="css" t="Include">
+                  <e p="open-iconic-bootstrap.min.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="open-iconic.eot" t="Include" />
+                  <e p="open-iconic.otf" t="Include" />
+                  <e p="open-iconic.svg" t="Include" />
+                  <e p="open-iconic.ttf" t="Include" />
+                  <e p="open-iconic.woff" t="Include" />
+                </e>
+              </e>
+              <e p="FONT-LICENSE" t="Include" />
+              <e p="ICON-LICENSE" t="Include" />
+              <e p="README.md" t="Include" />
+            </e>
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="dist" t="Include">
+            <e p="Assets" t="Include">
+              <e p="Images" t="Include">
+                <e p="GoogleMapsPin.png" t="Include" />
+              </e>
+            </e>
+            <e p="webpack" t="Include">
+              <e p="application" t="Include">
+                <e p="boot.js" t="Include" />
+                <e p="boot.js.map" t="Include" />
+                <e p="scripts.js" t="Include" />
+                <e p="scripts.js.map" t="Include" />
+                <e p="styles.css" t="Include" />
+                <e p="styles.css.map" t="Include" />
+                <e p="styles.js" t="Include" />
+                <e p="styles.js.map" t="Include" />
+              </e>
+              <e p="vendor" t="Include">
+                <e p="vendor-manifest.json" t="Include" />
+                <e p="vendor.css" t="Include" />
+                <e p="vendor.js" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="favicon.ico" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

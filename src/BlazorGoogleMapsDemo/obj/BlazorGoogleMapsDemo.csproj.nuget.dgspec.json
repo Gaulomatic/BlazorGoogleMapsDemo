@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Daten/Dokumente/Entwicklung/GitHub/Gaulomatic/BlazorGoogleMapsDemo/src/BlazorGoogleMapsDemo/BlazorGoogleMapsDemo.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Daten/Dokumente/Entwicklung/GitHub/Gaulomatic/BlazorGoogleMapsDemo/src/BlazorGoogleMapsDemo/BlazorGoogleMapsDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Daten/Dokumente/Entwicklung/GitHub/Gaulomatic/BlazorGoogleMapsDemo/src/BlazorGoogleMapsDemo/BlazorGoogleMapsDemo.csproj",
+        "projectName": "BlazorGoogleMapsDemo",
+        "projectPath": "/Volumes/Daten/Dokumente/Entwicklung/GitHub/Gaulomatic/BlazorGoogleMapsDemo/src/BlazorGoogleMapsDemo/BlazorGoogleMapsDemo.csproj",
+        "packagesPath": "/Volumes/Benutzer/Ordner/tobias/.nuget/packages/",
+        "outputPath": "/Volumes/Daten/Dokumente/Entwicklung/GitHub/Gaulomatic/BlazorGoogleMapsDemo/src/BlazorGoogleMapsDemo/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Volumes/Benutzer/Ordner/tobias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0-preview5-27626-15, 3.0.0-preview5-27626-15]"
+            }
+          ],
+          "frameworkReferences": [
+            "Microsoft.AspNetCore.App",
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    }
+  }
+}
